@@ -29,7 +29,7 @@ It currently supports I2C (SMBus) ONLY, and tested with Raspberry Pi.
 
 * Python >= 3.4
 * python3-smbus (for I2C)
-
+* python3-rpi.gpio (for GPIO on Raspberry Pi)
 
 ### Install
 
